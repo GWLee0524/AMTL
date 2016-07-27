@@ -13,7 +13,7 @@ and the second algorithm solves an approximation of it using curriculum learning
 on which we obtain significant improvements in performance over the single task learning and existing multitask learning models.
 
 # Run code
-We have two types of code, regression(run_amtl_regression) and classification(run_amtl_class). I make these codes with example dataset. 
+We have two types of code, regression(run_amtl_regression) and classification(run_amtl_class). I uploaded these codes with example dataset. 
 
 # Details of AMTL
 Details of AMTL are described in [AMTL paper][paperlink]
