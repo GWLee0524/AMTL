@@ -1,4 +1,5 @@
-# AMTL
+# Asymmetric Multi-Task Learning
+Giwoong Lee(UNIST), Eunho Yang(KAIST), Sung Ju Hwang(UNIST)
 Asymmetric Multi-Task Learning code, If you want to use it, please let me know and cite AMTL paper
 
 # Abstract
