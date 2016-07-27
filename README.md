@@ -1,5 +1,6 @@
-# Asymmetric Multi-Task Learning
-Giwoong Lee(UNIST), Eunho Yang(KAIST), Sung Ju Hwang(UNIST)
+# Asymmetric Multi-Task Learning(AMTL)
+* Giwoong Lee(UNIST), Eunho Yang(KAIST), Sung Ju Hwang(UNIST)
+
 Asymmetric Multi-Task Learning code, If you want to use it, please let me know and cite AMTL paper
 
 # Abstract
@@ -11,3 +12,9 @@ The first algorithm solves for the original learning objective using alternative
 and the second algorithm solves an approximation of it using curriculum learning strategy, that learns one task at a time. We perform experiments on multiple datasets for classification and regression, 
 on which we obtain significant improvements in performance over the single task learning and existing multitask learning models.
 
+# Run code
+We have two types of code, regression(run_amtl_regression) and classification(run_amtl_class). I make these codes with example dataset. 
+
+# Details of AMTL
+Details of AMTL are described in [AMTL paper][paperlink]
+[paperlink]: http://www.jmlr.org/proceedings/papers/v48/leeb16.pdf
