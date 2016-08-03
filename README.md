@@ -24,7 +24,7 @@ If you use this code or dataset (such as imbalanced dataset) as part of any publ
   year={2016}
 }
 ```
-## Run code
+## Running code
 We have two types of code, regression(run_amtl_regression) and classification(run_amtl_class). I uploaded these codes with example dataset. 
 
 ## Details of AMTL
