@@ -12,6 +12,9 @@ The first algorithm solves for the original learning objective using alternative
 and the second algorithm solves an approximation of it using curriculum learning strategy, that learns one task at a time. We perform experiments on multiple datasets for classification and regression, 
 on which we obtain significant improvements in performance over the single task learning and existing multitask learning models.
 
+# Motivation
+![motivation]()
+
 # Run code
 We have two types of code, regression(run_amtl_regression) and classification(run_amtl_class). I uploaded these codes with example dataset. 
 
