@@ -1,8 +1,8 @@
 # Asymmetric Multi-Task Learning(AMTL)
 + Giwoong Lee(UNIST), Eunho Yang(KAIST), Sung Ju Hwang(UNIST)
 
-![motivation](https://github.com/BlasterL/image_upload/blob/master/amtl_motivation.png)
-![mainIdea](https://github.com/BlasterL/image_upload/blob/master/amtl_mainidea.png)
+![motivation](https://github.com/BlasterL/image_upload/blob/master/AMTL_ICML2016/amtl_motivation.png)
+![mainIdea](https://github.com/BlasterL/image_upload/blob/master/AMTL_ICML2016/amtl_mainidea.png)
 
 ## Abstract
 We propose a novel multi-task learning method that minimizes the effect of negative transfer by allowing asymmetric transfer between the tasks based on task relatedness as well as the amount of individual task losses, which we refer to as Asymmetric Multi-task Learning (AMTL).
