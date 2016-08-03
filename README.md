@@ -13,7 +13,7 @@ and the second algorithm solves an approximation of it using curriculum learning
 on which we obtain significant improvements in performance over the single task learning and existing multitask learning models.
 
 # Motivation
-![motivation]()
+![motivation](https://photos-5.dropbox.com/t/2/AADq6mfdFk4enlZBo9i9mG0dha0uwny-rwv_tBtJZBd7XA/12/386472799/png/32x32/1/_/1/2/motivation_amtl.png/EPb0-YkDGMwGIAcoBw/C1TgxFYW7jCkRavIhSaJuT9cD_IAk44dPq4VjTv3APQ?dl=0&size=2048x1536&size_mode=3)
 
 # Run code
 We have two types of code, regression(run_amtl_regression) and classification(run_amtl_class). I uploaded these codes with example dataset. 
